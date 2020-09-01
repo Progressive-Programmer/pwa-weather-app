@@ -1,3 +1,13 @@
+
+Check the live version of this project :
+
+[Weather App: Live](https://weather-progressive.netlify.app/)
+
+
+
+Thanks to [@adrianhajdin](https://github.com/adrianhajdin) for his basic pwa tutorial.  
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

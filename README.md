@@ -7,6 +7,8 @@ Check the live version of this project :
 
 Thanks to [@adrianhajdin](https://github.com/adrianhajdin) for his basic pwa tutorial.  
 
+[![Run on Repl.it](https://repl.it/badge/github/Progressive-Programmer/pwa-weather-app)](https://repl.it/github/Progressive-Programmer/pwa-weather-app)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
